@@ -74,7 +74,9 @@ Displays *Training vs. Validation Loss* per epoch to show convergence and early 
 | **2** | Denoised Output (Model Predictions) |
 | **3** | Original Clean Images |
 
+
 📸 *Example visualization of the denoising effect:*
+<img width="1650" height="565" alt="image" src="https://github.com/user-attachments/assets/a8bbc4a7-22d7-4d14-a1b0-a442016905f6" />
 
 
 
