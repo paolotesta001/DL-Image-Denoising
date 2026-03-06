@@ -113,7 +113,8 @@ The low test loss indicates strong pixel-level reconstruction fidelity on unseen
 | **2** | Denoised Output (Model Predictions) |
 | **3** | Original Clean Images |
 
-![image](https://private-user-images.githubusercontent.com/191504240/497979723-a8bbc4a7-22d7-4d14-a1b0-a442016905f6.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI3ODM0MTMsIm5iZiI6MTc3Mjc4MzExMywicGF0aCI6Ii8xOTE1MDQyNDAvNDk3OTc5NzIzLWE4YmJjNGE3LTIyZDctNGQxNC1hMWIwLWE0NDIwMTY5MDVmNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMwNlQwNzQ1MTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZmQxMGI2NTNjNDRhNDAxNDIwYzgwYjg1MmZkZGJhOTI3YTY2ZmNmY2UzZmI5MDMwNzQ5NDgwZjYxMGZjZWJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.6pB2PcRm_EF--NniRx6qKViASTjOoBpYaOqMIB3Fwso)
+![Uploading image.png…]()
+
 
 ---
 
