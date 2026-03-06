@@ -113,9 +113,8 @@ The low test loss indicates strong pixel-level reconstruction fidelity on unseen
 | **2** | Denoised Output (Model Predictions) |
 | **3** | Original Clean Images |
 
-![Uploading image.png…]()
 
-
+<img width="719" height="248" alt="image" src="https://github.com/user-attachments/assets/e6cfd095-bea1-487f-bb8d-a2cc01012704" />
 
 ---
 
